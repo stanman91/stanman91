@@ -3,6 +3,7 @@
 <br/>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+<iframe src="https://giphy.com/embed/JqmupuTVZYaQX5s094" width="480" height="344" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Smolverse-smol-smolverse-swol-JqmupuTVZYaQX5s094">via GIPHY</a></p>
   
 ### 🧐 More About Me:
 
@@ -23,4 +24,4 @@
 
 <h2>🎵 Playing On Spotify<h2>  
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=shaqdeff&cover_image=true&theme=default&bar_color=8a938a)](https://github.com/kittinan/spotify-github-profile)
+<!--[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=shaqdeff&cover_image=true&theme=default&bar_color=8a938a)](https://github.com/kittinan/spotify-github-profile)-->
