@@ -2,7 +2,7 @@
 
 <br/>
 
-<img align="right" alt="GIF" src="[https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif](https://giphy.com/gifs/Smolverse-smol-smolverse-swol-JqmupuTVZYaQX5s094)" width="360px"/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/TFPdmm3rdzeZ0kP3zG/giphy.gif?cid=790b7611pq6a09ml5efbj4rijvgf88glyqous84ty8rgpgnd&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="360px"/>
 <iframe src="https://giphy.com/embed/JqmupuTVZYaQX5s094" width="480" height="344" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Smolverse-smol-smolverse-swol-JqmupuTVZYaQX5s094">via GIPHY</a></p>
   
 ### 🧐 More About Me:
@@ -22,7 +22,7 @@
 ### 🔨 Languages and Tools:
 
 
+<hr>
 <h2>🎵 Playing On Spotify<h2>  
 
-<!--[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=shaqdeff&cover_image=true&theme=default&bar_color=8a938a)](https://github.com/kittinan/spotify-github-profile)-->
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31g34ztrxn562wxby7ea6jgrxple&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
