@@ -2,13 +2,13 @@
 
 </br>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/stanman91/stanman91/main/giphy-developer.gif&center=true&size=30&color=29d2a" width="360px" />
-
 </br>
 
 <p align="center">I'm a web developer, and also a support technician. I yearn to always learn more to become a better programmer and version of myself. </p>
 
 ---
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/stanman91/stanman91/main/giphy-developer.gif" width="360px" />
   
 ### 🧐 More About Me:
 
@@ -38,7 +38,6 @@
 
 </br>          
 
-<hr>
 <h2>🎵 Playing On Spotify<h2>  
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31g34ztrxn562wxby7ea6jgrxple&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
