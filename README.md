@@ -19,7 +19,8 @@
 <br>
 
 ### 🔨 Languages and Tools:
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/c#/c#.svg" alt="pytorch" height="42px"/> </a> 
+ <img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<!--<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/c#/c#.svg" alt="pytorch" height="42px"/> </a> -->
 
 
 <hr>
