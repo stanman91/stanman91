@@ -1,5 +1,6 @@
 ### Hi there 👋 I'm Stanton
 
+<h2>
 <br/>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/stanman91/stanman91/main/giphy-developer.gif" width="360px"/>
@@ -7,19 +8,18 @@
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **youtube-audio-player**
-- 🤝 &nbsp; I’m looking to collaborate on [sheets-database](https://github.com/rahul-jha98/sheets-database)
-- 🌱 &nbsp; I’m currently learning Typescript; 
+- 🔭 &nbsp; web/analyst developer
+- 🤝 &nbsp; I’m currently working on my online profile
+- 🌱 &nbsp; Currently learning Typescript; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rahul-jha98?tab=repositories)
-- 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rahul-jha98/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
-- 📚 &nbsp; When I am free, I read fantasy and fiction novels. Checkout my [Goodreads](https://www.goodreads.com/rahul-jha98) to see the book I have read
+- 📝 &nbsp; Checkout my [resume](under construction)
 
 <br>
 
 ### 🔨 Languages and Tools:
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/c#/c#.svg" alt="pytorch" height="42px"/> </a> 
 
 
 <hr>
