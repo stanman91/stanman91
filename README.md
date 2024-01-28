@@ -3,8 +3,13 @@
 <h2>
 <br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/stanman91/stanman91/main/giphy-developer.gif" width="360px"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/stanman91/stanman91/main/giphy-developer.gif&center=true&size=30&color=29d2a" width="360px" />
 
+<br/>
+
+<p align="center">I'm a web developer, and also a support technician. I yearn to always learn more to become a better programmer and version of myself. </p>
+
+---
   
 ### 🧐 More About Me:
 
@@ -19,9 +24,18 @@
 <br>
 
 ### 🔨 Languages and Tools:
- <img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-<!--<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/c#/c#.svg" alt="pytorch" height="42px"/> </a> -->
+<img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+<img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+<img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
+<img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+<img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+<img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+<img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg" />
 
+<br/>          
 
 <hr>
 <h2>🎵 Playing On Spotify<h2>  
