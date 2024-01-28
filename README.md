@@ -2,7 +2,7 @@
 
 <br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+<img align="right" alt="GIF" src="[https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif](https://giphy.com/gifs/Smolverse-smol-smolverse-swol-JqmupuTVZYaQX5s094)" width="360px"/>
 <iframe src="https://giphy.com/embed/JqmupuTVZYaQX5s094" width="480" height="344" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Smolverse-smol-smolverse-swol-JqmupuTVZYaQX5s094">via GIPHY</a></p>
   
 ### 🧐 More About Me:
