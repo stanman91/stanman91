@@ -2,8 +2,8 @@
 
 <br/>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/TFPdmm3rdzeZ0kP3zG/giphy.gif?cid=790b7611pq6a09ml5efbj4rijvgf88glyqous84ty8rgpgnd&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="360px"/>
-<iframe src="https://giphy.com/embed/JqmupuTVZYaQX5s094" width="480" height="344" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Smolverse-smol-smolverse-swol-JqmupuTVZYaQX5s094">via GIPHY</a></p>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/stanman91/stanman91/main/giphy-developer.gif" width="360px"/>
+
   
 ### 🧐 More About Me:
 
