@@ -14,10 +14,10 @@
 
 - 🔭 &nbsp; web/analyst developer
 - 🤝 &nbsp; I’m currently working on my online profile
-- 🌱 &nbsp; Currently learning Typescript; 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rahul-jha98?tab=repositories)
+- 🌱 &nbsp; Currently learning Create-Reate and Tailwind
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/stanman91?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rahul-jha98/)
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/stanton-m-1608961b6/)
 - 📝 &nbsp; Checkout my [resume](under construction)
 
 </br>
@@ -40,4 +40,4 @@
 
 <h2>🎵 Playing On Spotify<h2>  
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31g34ztrxn562wxby7ea6jgrxple&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31g34ztrxn562wxby7ea6jgrxple&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)](https://github.com/kittinan/spotify-github-profile)
