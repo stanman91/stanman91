@@ -15,7 +15,7 @@
 - 🔭 &nbsp; web/analyst developer
 - 🤝 &nbsp; I’m currently working on my online profile
 - 🌱 &nbsp; Currently learning Create-Reate and Tailwind
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/stanman91?tab=repositories)
+- 👨🏻‍💻 &nbsp; Working on some projects on [Github](https://github.com/stanman91?tab=repositories), most are private for now.
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/stanton-m-1608961b6/)
 - 📝 &nbsp; Checkout my [resume](under construction)
